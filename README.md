@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peepa7, a Product Manager. 
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on a project to help animals, humanity, or the world.
+- 💞️ I’m looking to collaborate on a project to help animals, humanity, the world... all the things
 - 📫 Reach me on insta @maggie.marques
 
 <!---
